@@ -10,6 +10,7 @@ for(i = 0 ; i < arr.length ; i++){
         }
     }
     if(unique){
+        // uni.push(arr[i])
         uni[index] = arr[i]
         index++
     }
