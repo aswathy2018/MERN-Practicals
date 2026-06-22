@@ -9,4 +9,4 @@ app.get('/:name',(req,res)=>{
     res.send(`my name ${name}`)
 })
 
-app.listen(3004, ()=>console.log("Server.."))
+app.listen(3004, ()=>console.log("Server.."));
